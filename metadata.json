@@ -1,0 +1,8 @@
+{
+  "name": "Sampad Santra Inventory",
+  "description": "Enterprise offline-first inventory management, GST billing, and stock tracking system for Sampad Santra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
